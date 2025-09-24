@@ -1,0 +1,17 @@
+Para executar e compilar o codigo em sistema WINDOWS siga as instrucoes:
+    --Garanta que o java esta instalado e configurado
+    --abra o cmd e va ao diretorio do projeto
+    --utilize o comando javac Main.java para compilar os arquivos
+    --utilize o comando java Main.java para executar o programa
+    --o arquivo txt do teste deve estar presente no diretorio do projeto para o codigo funcionar
+
+
+
+
+
+Para executar e compilar o codigo em sistema LINUX siga as instrucoes:
+    --Verifique se o pacote jdk esta devidamente instalado para conseguir utilizar o comando javac
+    --va ao diretorio do projeto via terminal
+    --utilize o comando javac Main.java para compilar os arquivos
+    --utilize o comando java Main.java para executar o programa
+    --o arquivo txt do teste deve estar presente no diretorio do projeto para o codigo funcionar
