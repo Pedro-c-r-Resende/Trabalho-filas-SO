@@ -112,7 +112,7 @@ public class Processo {
         this.estado = estado;
     }
 
-    public int setUltimaExecucao(int ultimaExecucao) {
+    public void setUltimaExecucao(int ultimaExecucao) {
         return ultimaExecucao ;
     }
 
